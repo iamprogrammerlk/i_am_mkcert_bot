@@ -10,9 +10,24 @@
 
 <br><br>
 
-# PROJECT_TITLE
+# I am MkCert Bot
 
-### PROJECT_DESCRIPTION
+### A Shell script to automate the localhost SSL certificate creation process using the [MkCert](https://github.com/FiloSottile/mkcert) CLI tool.
+
+<br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+# 😍 Resource
+
+- MkCert Home Page
+
+  - https://mkcert.dev
+
+- MkCert Repository
+
+  - https://github.com/FiloSottile/mkcert
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
