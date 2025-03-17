@@ -12,7 +12,8 @@
 
 # I am MkCert Bot
 
-### A Shell script to automate the localhost SSL certificate creation process using the [MkCert](https://github.com/FiloSottile/mkcert) CLI tool.
+A Shell script to automate the localhost SSL certificate creation process using
+the [MkCert](https://github.com/FiloSottile/mkcert) CLI tool.
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -38,7 +39,10 @@
 
 - I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk)
 
-  [iamprogrammer.lk](https://iamprogrammer.lk) 🔸 [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk) 🔸 [x.com/iamprogrammerlk](https://x.com/iamprogrammerlk) 🔸 [youtube.com/@iamprogrammerlk](https://youtube.com/@iamprogrammerlk)
+  [iamprogrammer.lk](https://iamprogrammer.lk)
+  🔸 [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk)
+  🔸 [x.com/iamprogrammerlk](https://x.com/iamprogrammerlk)
+  🔸 [youtube.com/@iamprogrammerlk](https://youtube.com/@iamprogrammerlk)
 
 - [Contributors](/../../graphs/contributors)
 
@@ -49,7 +53,8 @@
 
 # ✨ Get Involved
 
-Get in touch with the project developers and the community through our [GitHub Discussions](/../../discussions) forum. View [contributing.md](/contributing.md) for information.
+Get in touch with the project developers and the community through our [GitHub Discussions](/../../discussions) forum.
+View [contributing.md](/contributing.md) for information.
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -67,11 +72,14 @@ Bug reports and feature requests can be submitted on the [Github Issues](/../../
 
 # 👍 Code of Conduct
 
-This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Code of Conduct](/code_of_conduct.md), [Security Policy](/security.md), and be bound by the terms of the [Contributor License Agreement](/contributor_license_agreement.md).
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to
+the [Code of Conduct](/code_of_conduct.md), [Security Policy](/security.md), and be bound by the terms of
+the [Contributor License Agreement](/contributor_license_agreement.md).
 
 > [!IMPORTANT]
 >
-> ### This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation. Please keep those discussions elsewhere.
+> This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation.
+> Please keep those discussions elsewhere.
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -80,7 +88,9 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 
 # ⚖️ License
 
-### This work is distributed under the [Do What The F\*ck You Want To Public License (WTFPL)](https://choosealicense.com/licenses/wtfpl/) License. See [license](/license.md) for more information.
+This work is distributed under
+the [Do What The F\*ck You Want To Public License (WTFPL)](https://choosealicense.com/licenses/wtfpl/) License.
+See [license](/license.md) for more information.
 
 ### Permissions
 
